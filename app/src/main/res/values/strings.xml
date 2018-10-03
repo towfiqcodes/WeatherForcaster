@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current">current</string>
+    <string name="_7_days_forecast">7 Days Forecast</string>
+    <string name="weather_report">Weather Report</string>
+    <string name="max">Max</string>
+    <string name="_10_9_2018">10/9/2018</string>
+    <string name="friday">Friday</string>
+    <string name="dhaka">Dhaka</string>
+    <string name="_17_0">17.0</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="humidity">Humidity</string>
+    <string name="_86">86%</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1071_10_hpa">1071.10 hPa</string>
+    <string name="clouds">Clouds</string>
+    <string name="scattered">Scattered</string>
+    <string name="min">Min</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="celcius">Celcius</string>
+    <string name="farenhite">Farenhite</string>
+    <string name="refresh">Refresh</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="saturday">Saturday</string>
+    <string name="_8_0c">8.0C</string>
+    <string name="january_11_2018">January 11,2018</string>
+
+    <string-array name="city_item">
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Barisal</item>
+        <item>Bandarban</item>
+        <item>Bhola</item>
+        <item>Bogra</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>
+        <item>Gaibandha</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jamalpur</item>
+        <item>Jessore</item>
+        <item>Jhenaidah</item>
+        <item>Kishoreganj</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Lakshmipur</item>
+        <item>Lalmonirhat</item>
+        <item>Madaripur</item>
+        <item>Magura</item>
+        <item>Moulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Nawabganj</item>
+        <item>Netrakona</item>
+        <item>Nilphamari</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Rajbari</item>
+        <item>Rajshahi</item>
+        <item>Rangpur</item>
+        <item>Satkhira</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sirajganj</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+
+    </string-array>
+
+</resources>
